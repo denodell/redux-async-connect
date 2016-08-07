@@ -1,11 +1,11 @@
 {
   "name": "redux-async-connect",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "It allows you to request async data, store them in redux state and connect them to your react component.",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Rezonans/redux-async-connect.git"
+    "url": "git+ssh://git@github.com/denodell/redux-async-connect.git"
   },
   "scripts": {
     "build": "babel ./modules -d lib --ignore '__tests__'",
@@ -24,9 +24,9 @@
   "author": "Rodion Salnik (http://brocoders.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rezonans/redux-async-connect/issues"
+    "url": "https://github.com/denodell/redux-async-connect/issues"
   },
-  "homepage": "https://github.com/Rezonans/redux-async-connect",
+  "homepage": "https://github.com/denodell/redux-async-connect",
   "peerDependencies": {
     "react": "15.x.x",
     "react-router": "2.x.x",
